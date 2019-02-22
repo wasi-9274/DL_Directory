@@ -232,7 +232,7 @@ x = list(df_2016['population'])
 y = list(df_2016['gdp'])
 text = df_2016['Country Name']
 
-fig, ax = plt.subplots(figsize=(15,10))
+fig, ax = plt.subplots(figsize=(15, 10))
 ax.scatter(x, y)
 plt.title('GDP vs Population')
 plt.xlabel('population')
