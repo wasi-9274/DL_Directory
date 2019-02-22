@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef5cee5-23d0-41c0-b2c5-4ddcebf4ddf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R-system/R_scr_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R-system/R_scr_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R-system/R_scr_3_collaborative_filtering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R-system/R_scr_3_measuring_similarity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/R-system/r_mechanisms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_data_storage/collaborative_filtering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_data_storage/content_based_recommendations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy_data_storage/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svd_dir/svd_script_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/TF_Intro.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/Tf_intro.npz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETL_scripts/Finding_Outliers_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETL_scripts/Finding_Outliers_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy_data_storage/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dummy_data_storage/test.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/svd_dir/svd_script_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="294">
+              <caret line="99" column="45" lean-forward="true" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -211,7 +201,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/wasi/Desktop/scrapy_projects/DL_Projects/NLP/nlp_scripts.py" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550812509324" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550812755187" />
     <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/keras" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -383,6 +373,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="949" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.7009967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24920128" />
@@ -921,8 +912,8 @@ df.loc[1]</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/svd_dir/svd_script_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="294">
+          <caret line="99" column="45" lean-forward="true" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
